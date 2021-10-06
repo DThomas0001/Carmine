@@ -18,7 +18,7 @@ async function legend() {
 
   console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
 }
-exports.hyperz = legend;
+exports.carmine = legend;
 ```
 
 <p align="center">
